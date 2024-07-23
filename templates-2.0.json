@@ -82,6 +82,17 @@
       "interactive": true,
       "command": "/bin/bash"
     },
+{
+      "type": 1,
+      "title": "XFCE",
+      "description": "XFCE Linux Desktop NoMachine",
+      "categories": ["operating-system"],
+      "platform": "linux",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/debian-2-logo-png-transparent.png",
+      "image": "thuonghai2711/nomachine-ubuntu-desktop:wine",
+      "interactive": true,
+      "command": "/bin/bash"
+    },
     {
       "type": 1,
       "title": "NodeJS",
