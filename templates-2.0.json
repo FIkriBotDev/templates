@@ -82,18 +82,6 @@
       "interactive": true,
       "command": "/bin/bash"
     },
-{
-      "type": 1,
-      "title": "LXDE",
-      "description": "XFCE Linux Desktop NoVNC",
-      "categories": ["operating-system"],
-      "platform": "linux",
-      "logo": "https://cdn.freebiesupply.com/logos/large/2x/debian-2-logo-png-transparent.png",
-      "image": "dorowu/ubuntu-desktop-lxde-vnc",
-      "ports": ["8090/tcp"]
-      "interactive": true,
-      "command": "/bin/bash"
-    },
     {
       "type": 1,
       "title": "NodeJS",
