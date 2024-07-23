@@ -77,7 +77,7 @@
       "description": "Arch Linux Operating System",
       "categories": ["operating-system"],
       "platform": "linux",
-      "logo": "https://raw.githubusercontent.com/docker-library/docs/ccacad8fa355ebf38dcfd8c216855ab55f981f17/archlinux/logo.png",
+      "logo": "https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png",
       "image": "archlinux:latest",
       "interactive": true,
       "command": "/bin/bash"
